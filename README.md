@@ -1,2 +1,3 @@
 # rust_contracts
-this is rust smart contracts
+
+This is rust smart contracts
